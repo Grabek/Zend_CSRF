@@ -3,7 +3,7 @@
 /**
  * Plugin wykrywający Cross-site request forgery (CSRF)
  *
- * @author Marcin Grabowski <marcin.grabowski@modostudio.pl>
+ * @author Marcin Grabowski <marcin.grabowski@gnb.pl>
  */
 class My_Controller_Plugin_CsrfProtect extends Zend_Controller_Plugin_Abstract {
 
