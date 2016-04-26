@@ -1,1 +1,1 @@
-# Zend_CSRF
+# Zend_Plugin_CSRFProtect
